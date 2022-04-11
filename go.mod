@@ -54,13 +54,13 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hashicorp/memberlist v0.1.6 // indirect
 	github.com/hashicorp/serf v0.8.6 // indirect
-	github.com/hashicorp/vault/api v1.1.0
-	github.com/hashicorp/vault/sdk v0.1.14-0.20200519221838-e0cfd64bc267
+	github.com/hashicorp/vault/api v1.5.0
+	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/jackc/pgx/v4 v4.14.0
 	github.com/jinzhu/gorm v1.9.1
 	github.com/jinzhu/now v1.1.3 // indirect
 	github.com/jmoiron/sqlx v1.2.0
-	github.com/julienschmidt/httprouter v1.1.0
+	github.com/julienschmidt/httprouter v1.2.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/echo/v4 v4.2.0
@@ -99,7 +99,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/api v0.29.0
 	google.golang.org/genproto v0.0.0-20200726014623-da3ae01ef02d // indirect
-	google.golang.org/grpc v1.32.0
+	google.golang.org/grpc v1.41.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/jinzhu/gorm.v1 v1.9.1
 	gopkg.in/olivere/elastic.v3 v3.0.75
